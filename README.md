@@ -1,2 +1,3 @@
 # intro-to-DL
-Record my solutions to the assignments & key takeaways of quizzes
+## For Cousera module "Introduction to Deep Learning" of HSE University
+Record my answers to the assignments & key takeaways of quizzes
