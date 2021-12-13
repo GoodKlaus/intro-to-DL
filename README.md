@@ -1,2 +1,2 @@
 # intro-to-DL
-Record my solutions to the assignments
+Record my solutions to the assignments & key takeaways of quizzes
